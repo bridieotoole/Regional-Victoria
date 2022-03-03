@@ -11,8 +11,8 @@ I'll start with me.
 
 After this round-robin icebreaker we touched on the assesments for this studio (more on that later) and kicked off into our first studio exercise: A postcard of that recent rural vist. 
 
-![Postcard F](Postcard Front.pdf)
-![Postcard B](Postcard Back.pdf)
+![Postcard F](Front.jpg)
+![Postcard B](Back.jpg)
 
 
 
