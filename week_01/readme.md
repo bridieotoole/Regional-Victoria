@@ -13,6 +13,3 @@ After this round-robin icebreaker we touched on the assesments for this studio (
 
 ![Postcard F](Front.jpg)
 ![Postcard B](Back.jpg)
-
-
-
